@@ -43,7 +43,7 @@ def lalala(message):
 		elif message.text == ITEM_WRITE_TO_ME:
 			MESSAGE = 'http://t.me/xenia_krw'
 		elif message.text == ITEM_SITE:
-			MESSAGE = 'Скоро будет, ожидайте:)'
+			MESSAGE = 'http://about-xenia-kireeva.ru'
 		else:
 			MESSAGE = "Не знаю что ответить 😢"
 
